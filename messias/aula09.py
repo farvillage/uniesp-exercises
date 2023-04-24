@@ -1,22 +1,22 @@
 #list:
-matriz3x3 = [
+matrix3x3 = [
     [1, 2, 3],
     [4, 5, 6],
     [7, 8, 9]
 ]
 
 #printing each list:
-print(matriz3x3[0])
-print(matriz3x3[1])
-print(matriz3x3[2])
+print(matrix3x3[0])
+print(matrix3x3[1])
+print(matrix3x3[2])
 
 #printing one item in the list:
-print(matriz3x3[0][1])
+print(matrix3x3[0][1])
 
 ##################################
 
 #5x5 list:
-matriz5x5 = [
+matrix5x5 = [
     [1, 2, 3, 4, 5],
     [6, 7, 8, 9, 10],
     [11, 12, 13, 14, 15],
@@ -25,7 +25,7 @@ matriz5x5 = [
 ]
 
 #printing 5x5 list:
-for list in matriz5x5:
+for list in matrix5x5:
     for item in list:
         if (item % 2) == 0:
             print(f'This number is EVEN {item}')
