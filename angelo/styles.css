@@ -1,0 +1,8 @@
+:root{
+--primary-color: sienna;
+}
+
+body{
+    background-color: var(--primary-color);
+    text-align: center;
+}
