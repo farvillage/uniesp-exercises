@@ -12,6 +12,6 @@ g2 = Number(g2);
 g3 = window.prompt("Enter grade 3: ");
 g3 = Number(g3);
 
-gt = (((2 * g1) + (3 * g2) + (5 * g3)) / (2 + 3 + 5));
+gt = (((2*g1)+(3*g2)+(5*g3))/(2+3+5));
 
-console.log("The total grade is", gt);
+console.log("The total grade is:", gt);
