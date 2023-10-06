@@ -1,3 +1,5 @@
+//AULA 02
+
 let gt; //grade total
 let g1; //grade 1
 let g2; //grade 2
